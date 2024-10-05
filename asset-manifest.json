@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intermediate-Virtual-Orrery/static/css/main.bcb30ad6.css",
+    "main.js": "/Intermediate-Virtual-Orrery/static/js/main.5fa2ea26.js",
+    "index.html": "/Intermediate-Virtual-Orrery/index.html",
+    "main.bcb30ad6.css.map": "/Intermediate-Virtual-Orrery/static/css/main.bcb30ad6.css.map",
+    "main.5fa2ea26.js.map": "/Intermediate-Virtual-Orrery/static/js/main.5fa2ea26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb30ad6.css",
+    "static/js/main.5fa2ea26.js"
+  ]
+}
