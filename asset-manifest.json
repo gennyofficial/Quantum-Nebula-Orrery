@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Quantum-Nebula-Orrery/static/css/main.bcb30ad6.css",
-    "main.js": "/Quantum-Nebula-Orrery/static/js/main.5fa2ea26.js",
+    "main.js": "/Quantum-Nebula-Orrery/static/js/main.b107613a.js",
     "index.html": "/Quantum-Nebula-Orrery/index.html",
     "main.bcb30ad6.css.map": "/Quantum-Nebula-Orrery/static/css/main.bcb30ad6.css.map",
-    "main.5fa2ea26.js.map": "/Quantum-Nebula-Orrery/static/js/main.5fa2ea26.js.map"
+    "main.b107613a.js.map": "/Quantum-Nebula-Orrery/static/js/main.b107613a.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb30ad6.css",
-    "static/js/main.5fa2ea26.js"
+    "static/js/main.b107613a.js"
   ]
 }
